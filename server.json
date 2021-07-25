@@ -5,28 +5,29 @@
             "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWYK2?wid=2000&hei=2000&fmt=jpeg",
             "name": "Iphone",
             "description": "Descrição do produto",
-            "price": 5000
+            "price": 5579
         },
         {
             "id": 2,
-            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWYK2?wid=2000&hei=2000&fmt=jpeg",
-            "name": "Galaxy",
+            
+            "photo": "https://www.fastshop.com.br//wcsstore/FastShopCAS/imagens/_CL_Celular/SGSMG991ZWBCO/SGSMG991ZWBCO_PRD_447_1.jpg",
+            "name": "Galaxy S21",
             "description": "Descrição do produto",
-            "price": 3000
+            "price": 3899
         },
         {
             "id": 3,
-            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWYK2?wid=2000&hei=2000&fmt=jpeg",
-            "name": "Motorola",
+            "photo": "https://images-americanas.b2w.io/produtos/01/00/img/1778939/7/1778939721_3SZ.jpg",
+            "name": "Motorola Edge+",
             "description": "Descrição do produto",
-            "price": 2900
+            "price": 2379
         },
         {
             "id": 4,
-            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MWYK2?wid=2000&hei=2000&fmt=jpeg",
-            "name": "Windows Phone",
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/31LLs9Ttg9S._AC_.jpg",
+            "name": "Xiaomi Mi 10T",
             "description": "Descrição do produto",
-            "price": 2500
+            "price": 2789
         }
     ]
 }
