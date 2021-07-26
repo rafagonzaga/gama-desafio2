@@ -9,6 +9,6 @@ O projeto foi realizado com base nas aulas de React e, principalmente, na mentor
 
 
 ## Usando a aplicação
-Veja o projeto online [clique aqui](https://rafaelgonzagalandingpage.netlify.app/)
+Veja o projeto online [clique aqui](https://rafael-gonzaga-desafio-02.netlify.app/)
 
 ### Rafael Gonzaga
